@@ -1,36 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="ChangeListManager">
+    <list default="true" id="7ea3b6f8-959e-41e1-b36f-eae764de92c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/flutter_gauge_example_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/flutter_gauge_example_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <option name="show-excluded-files" value="false" />
-      </pane>
-    </panes>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\calvin\source\repos\flutter-gauge-example\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f4jjiCk094q8vjeQF2HrFKcu9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="NAVIGATION" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="C:/dart/dartsdk-windows-x64-release/dart-sdk" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea3b6f8-959e-41e1-b36f-eae764de92c6" name="Default Changelist" comment="" />
+      <created>1595484396276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595484396276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1595485294137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1595485294137" />
+    <state x="624" y="178" key="AndroidProcessChooserDialog" timestamp="1595484417711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="178" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1595484417711" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1595485066583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595485066583" />
+    <state width="463" height="208" key="GridCell.Tab.0.bottom" timestamp="1595486060255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595486060255" />
+    <state width="463" height="208" key="GridCell.Tab.0.center" timestamp="1595486060254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595486060254" />
+    <state width="463" height="208" key="GridCell.Tab.0.left" timestamp="1595486060254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595486060254" />
+    <state width="463" height="208" key="GridCell.Tab.0.right" timestamp="1595486060254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595486060254" />
+    <state width="463" height="183" key="GridCell.Tab.1.bottom" timestamp="1595486007607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595486007607" />
+    <state width="463" height="183" key="GridCell.Tab.1.center" timestamp="1595486007607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595486007607" />
+    <state width="463" height="183" key="GridCell.Tab.1.left" timestamp="1595486007607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595486007607" />
+    <state width="463" height="183" key="GridCell.Tab.1.right" timestamp="1595486007607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="463" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595486007607" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1595485070109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595485070109" />
+    <state width="498" height="478" key="SwitcherDM" timestamp="1595486237277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="478" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1595486237277" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595485183488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595485183488" />
   </component>
 </project>

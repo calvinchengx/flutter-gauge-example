@@ -33,15 +33,24 @@ class MainPage extends StatefulWidget {
 	_MainPageState createState() => _MainPageState();
 }
 
-class _MainPageState extends State<MainPage> {
+class _MainPageState extends State<MainPage> with SingleTickerProviderStateMixin {
 
+	Animation<double> animation;
+	AnimationController controller;
 	GaugeDriver _driver = GaugeDriver();
 
 	@override
 	initState() {
 
 		super.initState();
-		_driver.listen((x) => setState(() { }) );
+//		_driver.listen((x) => setState(() { }) );
+		controller = AnimationController(duration: const Duration(seconds: 1), vsync: this);
+		controller.addListener(() {
+			_driver.drive(1/10);
+		});
+		animation = Tween<double>(begin: 0, end: 300).animate(controller)
+			..addStatusListener((state) => print('$state'));
+		controller.forward();
 	}
 
 	@override
@@ -51,11 +60,11 @@ class _MainPageState extends State<MainPage> {
 			appBar: AppBar( title: Text(widget.title) ),
 			backgroundColor: Colors.black,
 			body: Center(child: AnimatedGauge(driver: _driver)),
-			floatingActionButton: FloatingActionButton(
-				onPressed: () => _driver.drive(1/10),
-				child: Icon(_driver.maxed ? Icons.settings_backup_restore : Icons.offline_bolt),
-				tooltip: _driver.maxed ? 'Reset' : 'Drive',
-			), 
+//			floatingActionButton: FloatingActionButton(
+//				onPressed: () => _driver.drive(1/10),
+//				child: Icon(_driver.maxed ? Icons.settings_backup_restore : Icons.offline_bolt),
+//				tooltip: _driver.maxed ? 'Reset' : 'Drive',
+//			),
 		);
 	}
 }
